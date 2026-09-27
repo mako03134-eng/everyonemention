@@ -1,0 +1,12 @@
+{
+
+    "token": "User's Token",
+    
+    "parse_info":{
+        "guild_id": "guild_id",
+        "channel_id": "channel_id"
+    },
+
+    "count": 1
+
+}
